@@ -1,9 +1,3 @@
-Sure! Just drop your current README content here (or tell me what your project is and what sections you want), and I’ll help you make it look clean, professional, and visually appealing with proper formatting, badges, and maybe a logo/banner if you want.
-
-Here’s a general template to get you started in the meantime:
-
----
-
 ```markdown
 # 🎴 3-13 Card Game
 
@@ -81,9 +75,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-> Built with ❤️ by [Your Name](https://yourportfolio.com)
+> Built with ❤️ by [Hee Hoon Kim](https://yourportfolio.com)
 ```
 
 ---
 
-Want help customizing it for your actual repo? Paste your current README or share what your app does and I’ll tailor it perfectly.
